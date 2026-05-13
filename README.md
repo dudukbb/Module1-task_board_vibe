@@ -2,6 +2,10 @@
 
 A lightweight and intuitive Kanban-style task management app for organizing work across **To Do**, **In Progress**, and **Done** columns.
 
+# Live Demo
+
+https://module1-task-board-vibe.vercel.app/
+
 ## Bootcamp Context
 
 This project was built as part of the **EPAM A!Tech Bootcamp - Module 1 Vibe Coding Challenge**.
